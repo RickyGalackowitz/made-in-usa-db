@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-09-05T20:36:06.529Z",
+  "generated_at": "2026-09-05T20:38:33.227Z",
   "by_asin": {
     "B07TWFCV44": {
       "brand": "Amazon Basics",
@@ -20,6 +20,17 @@
       "confidence": 0.95,
       "source": "seed_db",
       "note": "Known Klein Tools screwdriver model."
+    },
+    "B07QNMCVWP": {
+      "brand": "Not provided",
+      "model": "",
+      "origin": "non-usa",
+      "country": "China or Vietnam",
+      "country_code": "",
+      "confidence": 1,
+      "source": "manual_review",
+      "source_issue": 2,
+      "note": "Approved from GitHub issue #2."
     }
   },
   "by_brand_model": [
