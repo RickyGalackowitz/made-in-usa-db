@@ -1,0 +1,195 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-08-29T00:00:00Z",
+  "by_asin": {
+    "B07TWFCV44": {
+      "brand": "Amazon Basics",
+      "model": "Extra Long Reach Needle Nose Pliers Tool Set",
+      "origin": "non-usa",
+      "country": "China",
+      "country_code": "cn",
+      "confidence": 1,
+      "source": "manual_review",
+      "source_issue": 3,
+      "note": "Approved from GitHub issue #3."
+    },
+    "B0D18XD5SP": {
+      "brand": "Klein Tools",
+      "model": "32303HD",
+      "origin": "usa",
+      "confidence": 0.95,
+      "source": "seed_db",
+      "note": "Known Klein Tools screwdriver model."
+    }
+  },
+  "by_brand_model": [
+    {
+      "brand": "klein tools",
+      "model": "32303HD",
+      "origin": "usa",
+      "confidence": 0.95,
+      "source": "seed_db",
+      "note": "Exact model match"
+    },
+    {
+      "brand": "klein tools",
+      "model": "32305HD",
+      "origin": "usa",
+      "confidence": 0.93,
+      "source": "seed_db",
+      "note": "Exact model match"
+    },
+    {
+      "brand": "klein tools",
+      "model": "32306HD",
+      "origin": "usa",
+      "confidence": 0.93,
+      "source": "seed_db",
+      "note": "Exact model match"
+    },
+    {
+      "brand": "klein tools",
+      "model": "32300HD",
+      "origin": "usa",
+      "confidence": 0.9,
+      "source": "seed_db",
+      "note": "Klein Tools insulated screwdriver family"
+    },
+    {
+      "brand": "klein tools",
+      "model": "32304HD",
+      "origin": "usa",
+      "confidence": 0.9,
+      "source": "seed_db",
+      "note": "Klein Tools precision screwdriver family"
+    },
+    {
+      "brand": "klein tools",
+      "model": "32307HD",
+      "origin": "usa",
+      "confidence": 0.9,
+      "source": "seed_db",
+      "note": "Klein Tools precision screwdriver family"
+    },
+    {
+      "brand": "klein tools",
+      "model": "3230",
+      "origin": "usa",
+      "confidence": 0.8,
+      "source": "seed_db",
+      "note": "Partial model match"
+    },
+    {
+      "brand": "klein tools",
+      "model": "cat. no. 32303HD",
+      "origin": "usa",
+      "confidence": 0.9,
+      "source": "seed_db",
+      "note": "Catalog-style model listing"
+    },
+    {
+      "brand": "estwing",
+      "model": "e3-18",
+      "origin": "usa",
+      "confidence": 0.88,
+      "source": "seed_db",
+      "note": "Estwing hatchet family"
+    },
+    {
+      "brand": "estwing",
+      "model": "e4-16",
+      "origin": "usa",
+      "confidence": 0.88,
+      "source": "seed_db",
+      "note": "Estwing axe family"
+    },
+    {
+      "brand": "channellock",
+      "model": "822",
+      "origin": "usa",
+      "confidence": 0.86,
+      "source": "seed_db",
+      "note": "Channellock pliers family"
+    },
+    {
+      "brand": "channellock",
+      "model": "436",
+      "origin": "usa",
+      "confidence": 0.86,
+      "source": "seed_db",
+      "note": "Channellock pliers family"
+    },
+    {
+      "brand": "weathertech",
+      "model": "floorliner",
+      "origin": "usa",
+      "confidence": 0.82,
+      "source": "seed_db",
+      "note": "WeatherTech product family"
+    },
+    {
+      "brand": "weathertech",
+      "model": "cargo liner",
+      "origin": "usa",
+      "confidence": 0.8,
+      "source": "seed_db",
+      "note": "WeatherTech cargo management family"
+    },
+    {
+      "brand": "vitamix",
+      "model": "ascent x2",
+      "origin": "usa",
+      "confidence": 0.81,
+      "source": "seed_db",
+      "note": "Vitamix blender family"
+    },
+    {
+      "brand": "vitamix",
+      "model": "explorian e310",
+      "origin": "usa",
+      "confidence": 0.81,
+      "source": "seed_db",
+      "note": "Vitamix blender family"
+    },
+    {
+      "brand": "airstream",
+      "model": "caravel",
+      "origin": "usa",
+      "confidence": 0.79,
+      "source": "seed_db",
+      "note": "Airstream travel trailer family"
+    },
+    {
+      "brand": "airstream",
+      "model": "bambi",
+      "origin": "usa",
+      "confidence": 0.79,
+      "source": "seed_db",
+      "note": "Airstream travel trailer family"
+    },
+    {
+      "brand": "darn tough",
+      "model": "hiker micro crew",
+      "origin": "usa",
+      "confidence": 0.8,
+      "source": "seed_db",
+      "note": "Darn Tough sock family"
+    },
+    {
+      "brand": "red wing shoes",
+      "model": "878",
+      "origin": "usa",
+      "confidence": 0.78,
+      "source": "seed_db",
+      "note": "Red Wing boot family"
+    },
+    {
+      "brand": "american giant",
+      "model": "merino crew",
+      "origin": "usa",
+      "confidence": 0.8,
+      "source": "seed_db",
+      "note": "American Giant apparel family"
+    }
+  ]
+}
