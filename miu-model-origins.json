@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-09-12T19:27:08.945Z",
+  "generated_at": "2026-09-12T19:46:53.380Z",
   "by_asin": {
     "B07TWFCV44": {
       "brand": "Amazon Basics",
@@ -62,8 +62,8 @@
       "country_code": "cn",
       "confidence": 1,
       "source": "manual_review",
-      "source_issue": 6,
-      "note": "Approved from GitHub issue #6."
+      "source_issue": 7,
+      "note": "Approved from GitHub issue #7."
     }
   },
   "by_brand_model": [
