@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-09-12T19:24:40.815Z",
+  "generated_at": "2026-09-12T19:27:08.945Z",
   "by_asin": {
     "B07TWFCV44": {
       "brand": "Amazon Basics",
@@ -53,6 +53,17 @@
       "source": "manual_review",
       "source_issue": 5,
       "note": "Approved from GitHub issue #5."
+    },
+    "B0DXHSDLVD": {
+      "brand": "Air-Scent",
+      "model": "",
+      "origin": "non-usa",
+      "country": "China",
+      "country_code": "cn",
+      "confidence": 1,
+      "source": "manual_review",
+      "source_issue": 6,
+      "note": "Approved from GitHub issue #6."
     }
   },
   "by_brand_model": [
